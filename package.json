@@ -1,0 +1,26 @@
+{
+  "name": "p5js-template",
+  "version": "1.0.0",
+  "description": "This is a template setting up p5.js with CodeSandbox! It includes the dom and sound libraries, but you can always add more!",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [
+    "p5.js",
+    "processing"
+  ],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/static-template/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
